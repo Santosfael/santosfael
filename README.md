@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Rocha 👋
 
-- 🔭 Hoje trabalho como Técnico de Tecnologia da Informação
-- 🌱 Estudando Typescript, React Js React Native, Spring boot
+- 🔭 Hoje trabalho com engenheiro de software iOS
+- 🌱 Estudando Swift, Typescript, React Js, React Native, Spring boot
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -11,6 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafael-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Rafael-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
