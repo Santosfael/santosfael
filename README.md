@@ -12,13 +12,20 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Rafael-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Rafael-xcode" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />
   <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafael-nodejs" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rafael-fastify" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" />
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Rafael-argocd" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" />
+  <img align="center" alt="Rafael-kubernetes" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
+  <img align="center" alt="Rafael-helm" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" />
+  <img align="center" alt="Rafael-docker" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Rafael-grafana" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
+  <img align="center" alt="Rafael-Opentelemetry" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original.svg" />
+  <img align="center" alt="Rafael-datadog" height="30" witdh="40" src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg" />
 </div>
 
 ##
